@@ -1,1 +1,1 @@
-# ImageManger
+# ImageManager
